@@ -18,10 +18,8 @@ To get this calculator running on your local machine, follow these simple steps:
 
 1.  **Clone the repository (or download the `calcu.py` file):**
     ```bash
-    git clone [https://github.com/YourUsername/your-repo-name.git](https://github.com/YourUsername/your-repo-name.git)
-    cd your-repo-name
+git clone: Asrithalakshmi2 , https://github.com/Asrithalakshmi2/CalculatorApp.git    
     ```
-    (Replace `YourUsername` and `your-repo-name` with your actual GitHub username and repository name.)
 
 2.  **Execute the Python script:**
     ```bash
