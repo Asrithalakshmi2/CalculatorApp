@@ -49,19 +49,3 @@ Addition (+)
 Subtraction (-)
 Multiplication (*)
 Division (/) Enter choice (1/2/3/4): 1 Enter first number: 10 Enter second number: 5 Result: 10.0 + 5.0 = 15.0 Do you want to perform another calculation? (yes/no): yes Enter choice (1/2/3/4): 4 Enter first number: 8 Enter second number: 0 Result: 8.0 / 0.0 = Error! Division by zero. Do you want to perform another calculation? (yes/no): no Thank you for using the calculator!
-
-## Contributing
-
-Contributions are welcome! If you have suggestions for improvements, new features, or find any bugs, please feel free to:
-
-1.  Fork the repository.
-2.  Create a new branch (`git checkout -b feature/AmazingFeature`).
-3.  Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4.  Push to the branch (`git push origin feature/AmazingFeature`).
-5.  Open a Pull Request.
-
-## License
-
-This project is open-source and available under the [e.g., MIT License].
-(Remember to create a `LICENSE` file in your repository and specify the license you choose, e.g., MIT, Apache 2.0, etc.)
-
